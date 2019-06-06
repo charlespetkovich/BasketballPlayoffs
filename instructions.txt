@@ -1,0 +1,10 @@
+run git.sh in your projects folder
+now you have a new folder in the folder
+if you want to update your version, use git pull
+if you want to commit changes, first pull to make sure no changes were made during that time
+Then:
+git add .
+git commit -m"Message for what youve changed"
+git push
+
+Likely, youll have to use some commands that require inputting a github username and password if youre looking to contribute this way, if its not worth it just send it to me and ill handle version control
